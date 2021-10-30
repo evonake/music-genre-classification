@@ -1,0 +1,5 @@
+try a CNN-RNN model to classify
+
+https://pytorch.org/docs/stable/generated/torch.nn.RNN.html?highlight=rnn#torch.nn.RNN
+  input_size = 256
+  hidden_size = 12
